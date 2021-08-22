@@ -4,3 +4,16 @@ My personal repository for learning and training Spring Framework, Spring Boot e
 
 It's a project to train these things.
 
+## Working Features
+
+*
+* 
+*
+*
+
+## Todo / Planned Features
+
+*
+*
+*
+*
