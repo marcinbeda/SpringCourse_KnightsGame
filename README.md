@@ -7,9 +7,9 @@ It's a project to train these things.
 ## Working Features
 
 * User login system
-* Knights system
-* Quests system
-* Gold system
+* Basic knights system
+* Basic quests system
+* Basic gold system
 
 ## Todo / Planned Features
 
